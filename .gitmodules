@@ -3,4 +3,4 @@
 	url = https://github.com/JaneySprings/DotNet.Meteor.Xaml.LanguageServer.git
 [submodule "src/clrdbg"]
 	path = src/clrdbg
-	url = https://github.com/JaneySprings/clrdbg.git
+	url = https://github.com/Happypig375/clrdbg.git
